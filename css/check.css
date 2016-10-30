@@ -1,0 +1,65 @@
+.main{
+	width: 300px;
+	height: 300px;
+	margin: 50px auto;
+}
+.name,.su{
+	margin-left: 13px;
+	height: 22px;
+	width: 200px;
+}
+.psw,.pswagain{
+	margin-top: 20px;
+}
+
+.nm_txt,.su_txt{
+	height: 22px;
+	width: 130px;
+	line-height: 22px;
+}
+.left,.mid,.right{
+	float: left;
+	width: 43px;
+	height: 13px;
+	background-color: #EE2D16;
+	border: 1px solid red;
+}
+span{
+	text-align: right;
+}
+.text{
+	margin-top: 3px;
+	margin-left: 60px;
+}
+.text p{
+	font-size: 9px;
+	color: white;
+	text-align: center;
+	line-height: 13px;
+}
+img{
+	position: relative;
+	left: 5px;
+}
+.su_txt{
+	margin-top: 10px;
+}
+.button{
+	margin-top: 30px;
+	margin: 30px 50px;
+}	
+.su img{
+	position: relative;
+	left: 190px;
+	top: -25px;
+	margin-left: 10px;
+
+}
+label{
+	position: relative;
+	top: 10px;
+	left: 100px;
+}
+img.imgg{
+	vertical-align: 60%;
+}
